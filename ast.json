@@ -1,0 +1,1 @@
+[{"age":">30","department":" = 'Sales'","salary":">50000"},{"age":">30","department":" = 'Sales'","experience":">5"},{"age": "<25","department":" = 'Marketing'","salary":">50000"},{"age": "<25","department":" = 'Marketing'","experience":">5"},{"age":">30","department":" = 'Marketing'","salary":">20000"},{"age":">30","department":" = 'Marketing'","experience":">5"}]
