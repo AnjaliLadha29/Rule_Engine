@@ -95,7 +95,7 @@ class DatabaseHelper
 {
     public static Connection getConnection() throws SQLException
     {
-        String url = "jdbc:mysql://localhost:3306/user_records";
+        String url = "";
         String user = "";
         String password = "";
         return DriverManager.getConnection(url, user, password);
